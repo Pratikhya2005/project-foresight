@@ -1,0 +1,12 @@
+metric,value
+SKUs scored,150.0
+High stockout-risk SKUs,4.0
+Medium stockout-risk SKUs,82.0
+High overstock-risk SKUs,1.0
+Medium overstock-risk SKUs,8.0
+Forecast stockout gap units,7885.713112088251
+Potential lost revenue,405296.036631599
+Excess inventory units,180.3590653530801
+Excess inventory value,5029.758434983129
+Recommended replenishment units,21790.0
+Recommended replenishment cost,556031.4
