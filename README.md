@@ -547,6 +547,7 @@ Project FORESIGHT demonstrates an end-to-end machine-learning workflow that conv
 - Financial-impact estimates
 - SKU-level inventory recommendations
 - An interactive deployed decision dashboard
+![image alt](https://github.com/Pratikhya2005/project-foresight/blob/f0f0f31be04cf9c86a01063423a89599fea10582/Screenshot%202026-07-24%20152118.png)
 
 ## FastAPI Scoring Service
 
