@@ -14,7 +14,7 @@ The system forecasts weekly SKU-level demand, evaluates forecasting models, iden
 
 ## GitHub Repository
 
-[Project FORESIGHT on GitHub](https://github.com/kundanad2102-ui/project-foresight)
+[Project FORESIGHT on GitHub](https://github.com/Pratikhya2005/project-foresight)
 
 ---
 
