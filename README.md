@@ -6,6 +6,8 @@ Project FORESIGHT is a machine-learning-powered demand forecasting and inventory
 
 The system forecasts weekly SKU-level demand, evaluates forecasting models, identifies stockout and overstock risks, estimates financial exposure, recommends inventory actions, and presents the results through an interactive Streamlit dashboard.
 
+![image alt](https://github.com/Pratikhya2005/project-foresight/blob/ad77beef2eee54ba14b1711f0f499f36289b734f/img_des.png)
+
 ## Live Application
 
 [Open the Project FORESIGHT Dashboard](https://project-foresight-szbpqvrcxp8x6sbrf8qmzx.streamlit.app/)
