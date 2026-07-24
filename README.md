@@ -404,7 +404,7 @@ Users can filter by:
 ### 1. Clone the repository
 
 ```powershell
-git clone https://github.com/kundanad2102-ui/project-foresight.git
+git clone https://github.com/Pratikhya2005-ui/project-foresight.git
 cd project-foresight
 ```
 
@@ -509,7 +509,7 @@ Live application:
 Deployment configuration:
 
 ```text
-Repository: kundanad2102-ui/project-foresight
+Repository: Pratikhya2005-ui/project-foresight
 Branch: main
 Main file: app/dashboard.py
 ```
