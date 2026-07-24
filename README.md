@@ -175,9 +175,9 @@ The EDA workflow includes:
 
 ### Promotion Analysis
 
-- Average demand during promotional observations: *61.01 units*
-- Average demand during non-promotional observations: *8.22 units*
-- Observed promotion-demand difference: *642.12%*
+- Average demand during promotional observations: **61.01 units**
+- Average demand during non-promotional observations: **8.22 units**
+- Observed promotion-demand difference: **642.12%**
 
 This is treated as an observed association and not proof that promotion alone caused the full increase.
 
